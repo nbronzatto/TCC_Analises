@@ -41,3 +41,70 @@
 * **H3** → Regressão logística ou linear múltipla, incluindo fatores de confusão como variáveis independentes.
 
 
+
+# Análises Gráficas do PSQI
+
+
+## Distribuição do escore PSQI total
+![Distribuição do escore PSQI total](./imgs/Distribuição do escore PSQI total.png)  
+Mostra a distribuição geral dos escores PSQI entre os participantes.
+
+---
+
+## Classificação da qualidade do sono
+![Classificação da qualidade do sono](./imgs/Classificação da qualidade do sono.png)  
+Apresenta a categorização do sono em **Bom**, **Ruim** e **Distúrbio**, com base nos escores PSQI.
+
+---
+
+## PSQI por gênero
+![PSQI por gênero](./imgs/PSQI por gênero.png)  
+Compara os escores do PSQI entre diferentes gêneros.
+
+---
+
+## PSQI por faixa etária
+![PSQI por faixa etária](./imgs/PSQI por faixa etária.png)  
+Mostra a variação dos escores PSQI ao longo das idades dos participantes.
+
+---
+
+## Média de PSQI por frequencia de exercicio
+![Média de PSQI por frequencia de exercicio](./imgs/Média de PSQI por frequencia de exercicio.png)  
+Apresenta a relação entre prática de exercícios físicos e a qualidade do sono.
+
+---
+
+## Média de PSQI por uso de redes antes de dormir
+![Média de PSQI por uso de redes antes de dormir](./imgs/Média de PSQI por uso de redes antes de dormir.png)  
+Mostra o impacto do uso de redes sociais antes de dormir nos escores PSQI.
+
+---
+
+## PSQI por tempo em redes sociais (boxplot)
+![PSQI por tempo em redes sociais (boxplot)](./imgs/PSQI por tempo em redes sociais (boxplot).png)  
+Compara o PSQI em função do tempo médio gasto em redes sociais por dia.
+
+---
+
+## PSQI vs. consumo de café após 18h
+![PSQI vs. consumo de café após 18h](./imgs/PSQI vs. consumo de café após 18h.png)  
+Analisa a relação entre consumo de café no período da noite e qualidade do sono.
+
+---
+
+## Correlação entre componentes do PSQI
+![Correlação entre componentes do PSQI](./imgs/Correlação entre componentes do PSQI.png)  
+Exibe a matriz de correlação entre os diferentes componentes que compõem o PSQI.
+
+---
+
+## Perfil médio dos componentes do PSQI
+![Perfil médio dos componentes do PSQI](./imgs/Perfil médio dos componentes do PSQI.png)  
+Mostra um gráfico de radar com o perfil médio de cada componente do PSQI.
+
+---
+
+## PSQI médio por idade e horas de trabalho
+![PSQI médio por idade e horas de trabalho](./imgs/PSQI médio por idade e horas de trabalho.png)  
+Apresenta a média do PSQI considerando simultaneamente idade e carga horária de trabalho.
