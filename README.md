@@ -1,7 +1,9 @@
+# Objetivo Principal
+Objetivo: mensurar qualidade do sono (PSQI / pontuacao, sono_qualidade) e testar se uso de redes sociais à noite / tempo de tela está associado a pior sono.
 
 ### Hipóteses de Pesquisa
 
-**H1**: **Maior tempo de tela à noite** (uso prolongado de redes sociais antes de dormir) está associado a **pior qualidade do sono**.
+**H1**: **Maior tempo de tela à noite** Esta associado a **pior qualidade do sono**.
 
 * Variáveis envolvidas:
 
@@ -12,7 +14,7 @@
 
 
 
-**H2**: **Uso de redes sociais após as 22h** eleva a probabilidade de apresentar **pior escore de sono**.
+**H2**: **Uso de redes sociais após as 22h** leva a probabilidade de apresentar **pior escore de sono**.
 
 * Variáveis envolvidas:
 
